@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AziziKhoiri99
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Program
 - 💞️ I’m looking to collaborate on my account
 - 📫 How to reach me 
